@@ -46,7 +46,7 @@ We release LoRA adapters for **two foundation LVLMs** across 8 medical imaging m
 
 The benchmark evaluation dataset can be downloaded here:
 
-👉 **[MergeMedBench Test Set](LINK_TO_TEST_DATASET)**
+👉 **[MergeMedBench Test Set](https://huggingface.co/datasets/MergeMedBench/MergeMedBenchTest/tree/main)**
 
 ---
 
