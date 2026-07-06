@@ -1,8 +1,6 @@
 # MergeMedBench: A Benchmark for Merging Medical LVLMs
 
-This repository provides **MergeMedBench**, a benchmark for evaluating model merging methods for medical large vision-language models (LVLMs).
-
-It corresponds to the paper:
+It corresponds to paper:
 
 👉 **[Model Merging for Medical LVLMs: A Benchmark and a Winner-Take-All Approach](PASTE_PAPER_LINK_HERE)**
 
@@ -12,9 +10,9 @@ It corresponds to the paper:
 
 We release LoRA adapters for **two foundation LVLMs** across 8 medical imaging modalities.
 
-### 🔹 Qwen3-VL-2B-Instruct based LoRA
+### 🔹 Qwen3-VL-2B-Instruct
 
-| Model Name | Modality | Download Link |
+| Name | Modality | Link |
 |------------|----------|---------------|
 | Qwen3-VL-2B-Instruct-CT-LoRA | CT | [Download](https://huggingface.co/MergeMedBench/Qwen3-VL-2B-Instruct-CT-LoRA) |
 | Qwen3-VL-2B-Instruct-MRI-LoRA | MRI | [Download](https://huggingface.co/MergeMedBench/Qwen3-VL-2B-Instruct-MRI-LoRA) |
@@ -27,9 +25,9 @@ We release LoRA adapters for **two foundation LVLMs** across 8 medical imaging m
 
 ---
 
-### 🔹 InternVL2-1B based LoRA
+### 🔹 InternVL2-1B
 
-| Model Name | Modality | Download Link |
+| Name | Modality | Link |
 |------------|----------|---------------|
 | InternVL2-1B-CT-LoRA | CT | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-CT-LoRA) |
 | InternVL2-1B-MRI-LoRA | MRI | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-MRI-LoRA) |
@@ -53,7 +51,7 @@ The benchmark evaluation dataset can be downloaded here:
 
 ## 📖 Citation
 
-If you use this benchmark or models, please cite:
+If you use this benchmark or the released LoRA checkpoints, please cite:
 
 ```bibtex
 @article{mergemedbench2026,
