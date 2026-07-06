@@ -12,7 +12,7 @@ We release all fine-tuned LoRA checkpoints included in MergeMedBench.
 
 ### 🔹 Qwen3-VL-2B-Instruct
 
-|Name |Modality |Link |
+|:Name |:Modality |:Link |
 |------------|----------|---------------|
 | Qwen3-VL-2B-Instruct-CT-LoRA | CT | [Download](https://huggingface.co/MergeMedBench/Qwen3-VL-2B-Instruct-CT-LoRA) |
 | Qwen3-VL-2B-Instruct-MRI-LoRA | MRI | [Download](https://huggingface.co/MergeMedBench/Qwen3-VL-2B-Instruct-MRI-LoRA) |
@@ -27,7 +27,7 @@ We release all fine-tuned LoRA checkpoints included in MergeMedBench.
 
 ### 🔹 InternVL2-1B
 
-|Name |Modality |Link |
+|:Name |:Modality |:Link |
 |------------|----------|---------------|
 | InternVL2-1B-CT-LoRA | CT | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-CT-LoRA) |
 | InternVL2-1B-MRI-LoRA | MRI | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-MRI-LoRA) |
