@@ -4,7 +4,6 @@ It corresponds to the following paper:
 
 👉 **[Model Merging for Medical LVLMs: A Benchmark and a Winner-Take-All Approach](PASTE_PAPER_LINK_HERE)**
 
----
 
 ## 📦 LoRA Checkpoints
 
@@ -23,7 +22,7 @@ We release all fine-tuned LoRA checkpoints included in MergeMedBench.
 | Qwen3-VL-2B-Instruct-OCT-LoRA | OCT | [Download](https://huggingface.co/MergeMedBench/Qwen3-VL-2B-Instruct-OCT-LoRA) |
 | Qwen3-VL-2B-Instruct-Microscopy-LoRA | Microscopy | [Download](https://huggingface.co/MergeMedBench/Qwen3-VL-2B-Instruct-Microscopy-LoRA) |
 
----
+
 
 ### 🔹 InternVL2-1B
 
@@ -38,7 +37,7 @@ We release all fine-tuned LoRA checkpoints included in MergeMedBench.
 | InternVL2-1B-OCT-LoRA | OCT | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-OCT-LoRA) |
 | InternVL2-1B-Microscopy-LoRA | Microscopy | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-Miscroscopy-LoRA) |
 
----
+
 
 ## 🧪 Evaluation Dataset
 
@@ -46,7 +45,7 @@ The images used in MergeMedBench are sourced from the OmniMedVQA dataset and are
 
 👉 **[MergeMedBench Evaluation Set](https://huggingface.co/datasets/MergeMedBench/MergeMedBenchTest/tree/main)**
 
----
+
 
 
 ## 📖 Citation
