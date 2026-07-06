@@ -50,15 +50,6 @@ The benchmark evaluation dataset can be downloaded here:
 
 ---
 
-## 📌 Notes
-
-- All LoRA adapters are trained on modality-specific medical datasets.
-- The benchmark supports evaluation of:
-  - Model merging strategies
-  - Cross-modal generalization
-  - Multi-domain medical LVLM performance
-
----
 
 ## 📖 Citation
 
