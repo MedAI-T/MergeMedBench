@@ -4,6 +4,10 @@ It corresponds to the following paper:
 
 👉 **[Model Merging for Medical LVLMs: A Benchmark and a Winner-Take-All Approach](PASTE_PAPER_LINK_HERE)**
 
+<p align="center">
+  <img src="assets/examples.png" alt="Examples" width="900">
+</p>
+
 
 ## 📦 LoRA Checkpoints
 
@@ -11,7 +15,7 @@ We release all fine-tuned LoRA checkpoints included in MergeMedBench.
 
 ### 🔹 Qwen3-VL-2B-Instruct
 
-|Name |Modality |Link |
+| Name | Modality | Link |
 |:------------|:----------|:---------------|
 | Qwen3-VL-2B-Instruct-CT-LoRA | CT | [Download](https://huggingface.co/MergeMedBench/Qwen3-VL-2B-Instruct-CT-LoRA) |
 | Qwen3-VL-2B-Instruct-MRI-LoRA | MRI | [Download](https://huggingface.co/MergeMedBench/Qwen3-VL-2B-Instruct-MRI-LoRA) |
@@ -23,10 +27,9 @@ We release all fine-tuned LoRA checkpoints included in MergeMedBench.
 | Qwen3-VL-2B-Instruct-Microscopy-LoRA | Microscopy | [Download](https://huggingface.co/MergeMedBench/Qwen3-VL-2B-Instruct-Microscopy-LoRA) |
 
 
-
 ### 🔹 InternVL2-1B
 
-|Name |Modality |Link |
+| Name | Modality | Link |
 |:------------|:----------|:---------------|
 | InternVL2-1B-CT-LoRA | CT | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-CT-LoRA) |
 | InternVL2-1B-MRI-LoRA | MRI | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-MRI-LoRA) |
@@ -35,8 +38,7 @@ We release all fine-tuned LoRA checkpoints included in MergeMedBench.
 | InternVL2-1B-Dermoscopy-LoRA | Dermoscopy | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-Dermoscopy-LoRA) |
 | InternVL2-1B-Fundus-LoRA | Fundus Photography | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-Fundus-LoRA) |
 | InternVL2-1B-OCT-LoRA | OCT | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-OCT-LoRA) |
-| InternVL2-1B-Microscopy-LoRA | Microscopy | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-Miscroscopy-LoRA) |
-
+| InternVL2-1B-Microscopy-LoRA | Microscopy | [Download](https://huggingface.co/MergeMedBench/InternVL2-1B-Microscopy-LoRA) |
 
 
 ## 🧪 Evaluation Dataset
@@ -45,7 +47,9 @@ The images used in MergeMedBench are sourced from the OmniMedVQA dataset and are
 
 👉 **[MergeMedBench Evaluation Set](https://huggingface.co/datasets/MergeMedBench/MergeMedBenchTest/tree/main)**
 
-
+<p align="center">
+  <img src="assets/statistics.png" alt="Statistics" width="900">
+</p>
 
 
 ## 📖 Citation
