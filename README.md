@@ -4,7 +4,8 @@ It corresponds to the following paper:
 
 👉 **[Model Merging for Medical LVLMs: A Benchmark and a Winner-Take-All Approach](PASTE_PAPER_LINK_HERE)**
 
-<p align="center">
+
+<p align="left">
   <img src="assets/examples.png" alt="Examples" width="900">
 </p>
 
@@ -47,7 +48,8 @@ The images used in MergeMedBench are sourced from the OmniMedVQA dataset and are
 
 👉 **[MergeMedBench Evaluation Set](https://huggingface.co/datasets/MergeMedBench/MergeMedBenchTest/tree/main)**
 
-<p align="center">
+
+<p align="left">
   <img src="assets/statistics.png" alt="Statistics" width="900">
 </p>
 
